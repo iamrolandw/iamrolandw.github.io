@@ -5,7 +5,7 @@ comments: False
 ---
 
 <p class="message">
-  Rambling of a middle aged guy working in technology in the centre of London
+  Ramblings of a middle aged guy working in technology in the centre of London
 </p>
 
 I used to 
@@ -33,3 +33,5 @@ In case you are interested, this site is coming to you from
 [Aquamacs](http://aquamacs.org/), my favourite blend of Emacs.
 
 Thanks for reading!
+
+{% include twitter.html %}
