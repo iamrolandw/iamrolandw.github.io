@@ -1,30 +1,35 @@
 ---
 layout: page
 title: About
+comments: False
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Rambling of a middle aged guy working in technology in the centre of London
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I used to 
 
-There are currently two themes built on Poole:
+* design race yachts
+* partner in a multi-disciplinary design group
+* consult on technology through a management consultancy
+* run the technology used by one of the global fine art auction houses
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+but now I run a small company in the centre of London providing
+software development, contract IT services, open source solutions and
+general IT consulting.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I'm married to a furniture designer so expect some comments on
+design *and* furniture.
 
-## Setup
+I sometimes get involved in music (classical rather than rave) - I
+have some strong opinions there too!
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### About this site
+In case you are interested, this site is coming to you from
+[GitHub Pages](https://pages.github.com). The content is managed by
+[Poole](https://github.com/poole) which runs on top of
+[Jekyll](http://jekyllrb.com). I edit all the pages using
+[Aquamacs](http://aquamacs.org/), my favourite blend of Emacs.
 
 Thanks for reading!
